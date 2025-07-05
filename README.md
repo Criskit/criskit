@@ -28,9 +28,14 @@
 
 ![Criskit GitHub stats](https://github-readme-stats.vercel.app/api?username=criskit&show_icons=true&theme=radical)
 ----------------
+## 📊 GitHub Statistics
 
-![Criskit GitHub Statistics](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Languages Used](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<!-- Dark mode -->
+![Criskit GitHub Statistics (Dark)](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<!-- Light mode -->
+![Criskit GitHub Statistics (Light)](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 
 

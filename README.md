@@ -26,7 +26,7 @@
 
 --------------------
 
-![Criskit GitHub stats](https://github-readme-stats.vercel.app/api?username=criskita&show_icons=true&theme=radical)
+![Criskit GitHub stats](https://github-readme-stats.vercel.app/api?username=criskit&show_icons=true&theme=radical)
 
 
 

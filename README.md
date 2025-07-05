@@ -1,15 +1,19 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao meu Mundo| 
 
+![gif do gatinho](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
+-----------------
 
-*italico* ou _italico_
+😐 Olá, me chamo Criskit!
 
-**Negrito** ou __negrito__
+💻 Sou programadora
 
-___negrito e italico___
+📫 [Linkedin](www.linkedin.com/in/cristiane-machado-7a11a1190)
 
-- Lista1
-- Lista 2
-  - Sublista
+---------------
+
+### Minhas Tecnologias
+
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)
 
 <!--
 **Criskit/criskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

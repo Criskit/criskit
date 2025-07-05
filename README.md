@@ -2,7 +2,7 @@
 
 
 
-![Programing](https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif)
+![Gatinho Programador](https://media1.tenor.com/m/e4mfQSHwRW8AAAAC/typing-laptop.gif)
 -----------------
 
 😐 Olá, me chamo Criskit!

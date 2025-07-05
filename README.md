@@ -17,7 +17,19 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+
+-----------------
+|Cursos | Certificados |
+|------- |--------------|
+|
+
+
+
+
+
+
 
 <!--
 **Criskit/criskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

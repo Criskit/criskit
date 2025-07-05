@@ -1,7 +1,7 @@
 ## Sejam Bem-Vindos ao meu Mundo| 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="300px"/>
+![Programing](https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif)
 -----------------
 
 😐 Olá, me chamo Criskit!
@@ -17,6 +17,8 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px"/>
           
 
 <!--

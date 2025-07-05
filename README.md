@@ -1,7 +1,7 @@
 ## Sejam Bem-Vindos ao meu Mundo| 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="500px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="300px"/>
 -----------------
 
 😐 Olá, me chamo Criskit!

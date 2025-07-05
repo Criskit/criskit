@@ -1,6 +1,7 @@
 ## Sejam Bem-Vindos ao meu Mundo| 
 
-![gif do gatinho](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="500px"/>
 -----------------
 
 😐 Olá, me chamo Criskit!
@@ -13,7 +14,10 @@
 
 ### Minhas Tecnologias
 
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px" />
+          
 
 <!--
 **Criskit/criskit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

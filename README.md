@@ -2,7 +2,7 @@
 
 
 
-![Programador](https://i.imgur.com/MvMxQ1a.gif?noredirect)
+![Gif do Gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 -----------------
 
 😐 Olá, me chamo Criskit!
@@ -16,18 +16,18 @@
 ### Minhas Tecnologias
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px">
 
 -----------------
 |Cursos | Certificados |
 |------- |--------------|
 |                       |
 
---------------------
-
 ![Criskit GitHub stats](https://github-readme-stats.vercel.app/api?username=criskit&show_icons=true&theme=radical)
 
-
-![Criskit GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/username=criskit&layout=compact&langs_count=7&theme=dracula)
+![Criskit GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=criskit&layout=compact&langs_count=7&theme=dracula)
 
 
 

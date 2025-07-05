@@ -1,6 +1,7 @@
 ## Sejam Bem-Vindos ao meu Mundo| 
 
 
+
 ![Programing](https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif)
 -----------------
 
@@ -21,7 +22,13 @@
 -----------------
 |Cursos | Certificados |
 |------- |--------------|
-|
+|                       |
+
+--------------------
+
+![Criskit GitHub stats](https://github-readme-stats.vercel.app/api?username=criskita&show_icons=true&theme=radical)
+
+
 
 
 

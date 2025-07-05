@@ -2,7 +2,10 @@
 
 
 
-![Programador](https://i.imgur.com/MvMxQ1a.gif?noredirect)
+<p align="center">
+  <img src="https://i.imgur.com/MvMxQ1a.gif?noredirect" alt="Programador" width="300"/>
+</p>
+
 -----------------
 
 😐 Olá, me chamo Criskit!

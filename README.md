@@ -2,7 +2,7 @@
 
 
 
-![Gif do Gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
+![Gif Programador](https://i.imgur.com/MvMxQ1a.gif?noredirect)
 -----------------
 
 😐 Olá, me chamo Criskit!

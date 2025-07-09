@@ -23,6 +23,7 @@
 
 ![Criskit GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=criskit&layout=compact&langs_count=7&theme=dracula)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Criskit=DenverCoder1)](https://git.io/streak-stats)
 
 
 

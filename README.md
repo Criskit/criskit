@@ -1,7 +1,7 @@
 ## Sejam Bem-Vindos ao meu Mundo!
 
 <!-- Gif da Garota Programadora, com mesmo tamanho -->
-<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="300"/>
+<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="500"/>
 -----------------
 
 😐 Olá, me chamo Criskit!

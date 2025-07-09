@@ -1,15 +1,14 @@
-## Sejam Bem-Vindos ao meu Mundo
+## Sejam Bem-Vindos ao meu Mundo!
 
-
-
-![Gif Programador](https://i.imgur.com/MvMxQ1a.gif?noredirect)
+<!-- Gif da Garota Programadora, com mesmo tamanho -->
+<img src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="300"/>
 -----------------
 
 😐 Olá, me chamo Criskit!
 
 💻 Sou programadora
 
-📫 [Linkedin](www.linkedin.com/in/cristiane-machado-7a11a1190)
+📫 [Linkedin](#)
 
 ---------------
 
@@ -18,9 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
  
 -----------------
-|Cursos | Certificados |
-|------- |--------------|
-|                       |
+
 
 ![Criskit GitHub stats](https://github-readme-stats.vercel.app/api?username=criskit&show_icons=true&theme=radical)
 

@@ -6,7 +6,7 @@
 
 😐 Olá, me chamo Criskit!
 
-💻 Sou programadora, apaixonada por esse mundo tech
+💻 Sou programadora, apaixonada por esse incrível mundo da tecnologia.  
 
 📫 [Linkedin](#)
 
